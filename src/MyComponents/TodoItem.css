@@ -1,0 +1,22 @@
+.btn{
+    padding:10px;
+    display: block;
+    font-size: 0.8rem;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+}
+
+.btn:hover{
+    background-color: red;
+}
+
+.btn-red{
+    background-color: rgb(221, 31, 31);
+}
+
+.btn-green{
+    background-color: darkgreen;
+}

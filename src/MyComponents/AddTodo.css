@@ -1,0 +1,29 @@
+.container{
+    width:50%;
+    margin: 0 auto;
+}
+
+.mb-2{
+    margin: 2rem 0;
+}
+
+label{
+    font-weight: bold;
+}
+
+input{
+    display: block;
+    width: 80%;
+    padding: 10px 5px;
+    font-size: 1rem;
+    margin: 1rem 0;
+    border: 1px solid black;
+}
+
+.btn{
+    margin: 1rem 0;
+}
+
+.add:hover{
+    background-color: green !important;
+}
